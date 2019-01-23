@@ -20,7 +20,7 @@ npm run build --report
 
 ## Demo
 
-[https://qsued-teams.github.io/QS-photo-server/dist/index.html#/](https://qsued-teams.github.io/QS-photo-server/dist/index.html#/)
+[https://qsued-teams.github.io/QS-photo-server/dist/](https://qsued-teams.github.io/QS-photo-server/dist/)
 
 
 ![](http://public.hzqisheng.cn/Fu76iS1tMfNP-zt1SLxBJ0HWp2he)
